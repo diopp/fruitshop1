@@ -5,6 +5,7 @@ import React from "react";
 
 export default function Admin(props) {
 
+    const [showModal, setShowModal] = React.useState(false);
     const [state, setState] = useState({
 
         products: [{ name: "", price: "", image: "", quantity: "", category:""}],
@@ -20,7 +21,7 @@ export default function Admin(props) {
 
     async function getData() {
         const response = await fetch(
-            "https://whispering-refuge-97391.herokuapp.com/https://api-fruits1.herokuapp.com/api/fruits"
+            "https://ancient-temple-17931.herokuapp.com/https://backend-fruit.herokuapp.com/api/fruits"
           );
           const data = await response.json();
           setState({
@@ -49,7 +50,7 @@ export default function Admin(props) {
 
 
         
-            await fetch("https://whispering-refuge-97391.herokuapp.com/https://api-fruits1.herokuapp.com/api/fruits", {
+            await fetch("https://ancient-temple-17931.herokuapp.com/https://backend-fruit.herokuapp.com/api/fruits", {
               method: "POST",
               headers: {
                 "Content-type": "Application/json"
@@ -84,7 +85,7 @@ export default function Admin(props) {
         <hr />
         <hr />
         
- 
+     
   <div className="bg-white shadow-md rounded my-6">
  
     <table className="text-left w-full border-collapse"> 
@@ -224,7 +225,7 @@ export default function Admin(props) {
 
 
 
-          <button className='bg-green-500  text-white font-bold py-2 px-4 rounded' >ADD PRODUCT</button>
+          <button className='bg-green-500  text-white font-bold py-2 px-4 rounded'>ADD SKILL</button>
         </form>
       </section>
 

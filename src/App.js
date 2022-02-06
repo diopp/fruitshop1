@@ -14,7 +14,7 @@ function App() {
   const[product, setProduct] = useState(null)
 
   const getProduct = async () => {
-    const response = await fetch(`https://whispering-refuge-97391.herokuapp.com/https://api-fruits1.herokuapp.com/api/fruits`)
+    const response = await fetch('https://ancient-temple-17931.herokuapp.com/https://backend-fruit.herokuapp.com/api/fruits')
     const data = await response.json()
     setProduct(data)
    
