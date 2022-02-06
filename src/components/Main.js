@@ -5,20 +5,7 @@ import Cart from '../components/Cart/Cart'
 import Admin from '../pages/Admin/admin';
 import AddProduct from '../pages/Admin/AddProducts';
 
-
-
-
-
-
-
 function Main(props) {
-    
-    
-
-
-  
-      
-
     return (
         <main>
         
@@ -56,12 +43,7 @@ function Main(props) {
 
                 <Route exact path='/addProduct'>
                     <AddProduct handleSubmit={props.handleSubmit} handleChange={props.handleChange} name={props.name} product={props.product}  />  
-        
-                    
-                    
-                    
-               
-                    
+  
                 </Route>
 
 
