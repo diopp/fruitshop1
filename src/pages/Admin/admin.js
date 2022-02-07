@@ -223,7 +223,7 @@ export default function Admin(props) {
 
 
 
-          <button className='bg-green-500  text-white font-bold py-2 px-4 rounded'>ADD SKILL</button>
+          <button className='bg-green-500  text-white font-bold py-2 px-4 rounded'>ADD PRODUCT</button>
         </form>
       </section>
 
