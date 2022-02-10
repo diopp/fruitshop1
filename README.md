@@ -13,9 +13,9 @@ Ecommerce web app
 - Mongoose
 
 ## ERD
-![screenshot 1](frontend\src\assets\images\ERD.JPG)
+![screenshot 1](public\images\ERD.JPG)
 ## Wireframes 
-![screenshot 2](frontend\src\assets\images\image (1).png)![screenshot 3](frontend\src\assets\images\image.png)
+![screenshot 2](public\image (1).png)![screenshot 3](public\image.png)
 
 
 
