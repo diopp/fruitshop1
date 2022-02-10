@@ -27,4 +27,8 @@ Ecommerce web app
 
 
 ## Future Enhancements
-
+- Admin Page with a dashboard
+- Cart with Total PRICE
+- Banner for the website
+- Mobile friendly
+- Add more product
