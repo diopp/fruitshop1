@@ -13,7 +13,7 @@ Ecommerce web app
 - Mongoose
 
 ## ERD
-![screenshot 1](public\ERD.JPG)
+![screenshot 1](public/ERD.PNG)
 ## Wireframes 
 ![screenshot 2](public\image (1).png)![screenshot 3](public\image.png)
 
