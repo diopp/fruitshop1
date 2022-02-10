@@ -22,9 +22,9 @@ Ecommerce web app
 
 ## Getting Started 
 
-[Click here](https://bughut12.herokuapp.com/) to see the site live
+[Click here](https://6201a5272affc396c17c5869--affectionate-pike-cc4b26.netlify.app/) to see the site live
 
-frontend\src\assets\images\ERD.JPG
+
 
 ## Future Enhancements
 
