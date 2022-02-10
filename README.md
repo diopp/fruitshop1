@@ -15,7 +15,8 @@ Ecommerce web app
 ## ERD
 ![screenshot 1](public/ERD.JPG)
 ## Wireframes 
-![screenshot 2](public\image (1).png)![screenshot 3](public\image.png)
+![screenshot 2](public/image.png)
+![screenshot 3](public\image.png)
 
 
 
