@@ -4,7 +4,6 @@ Ecommerce web app
 - HTML
 - CSS
 - JavaScript/jQuery
-- Bootstrap 
 - Tailwind 
 - React
 - Node.js
